@@ -1,0 +1,17 @@
+import { NgModule, OnInit } from '@angular/core'
+
+@NgModule({
+    imports: [],
+    declarations: [],
+    exports: []
+})
+
+export class SharedModule implements OnInit{
+    constructor(){
+
+    }
+
+    ngOnInit(){
+
+    }
+}
